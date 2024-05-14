@@ -1,6 +1,6 @@
-export default function customers() {
+export default async function customers() {
     return (
-        <div>hello i am customers</div>
+        <>Customer page</>
     )
 
 }
